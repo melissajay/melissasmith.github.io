@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>/media/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
   </url>
   
@@ -23,23 +19,11 @@
   </url>
   
   <url>
-    <loc>/resources/</loc>
-  </url>
-  
-  <url>
     <loc>/presentations/</loc>
   </url>
   
   <url>
-    <loc>/service/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
   </url>
   
 </urlset>
